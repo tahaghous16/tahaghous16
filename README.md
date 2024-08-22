@@ -3,7 +3,8 @@
 
 <hr>
 
-<img align="right" src="https://github.com/user-attachments/assets/cdac0f99-3624-4b29-ae41-ee61c20c129c" alt="Coding Image" width="400px"/>
+<!-- Adding margin-top to move the image downward -->
+<img align="right" src="https://github.com/user-attachments/assets/cdac0f99-3624-4b29-ae41-ee61c20c129c" alt="Coding Image" width="400px" style="margin-top: 20px;"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
