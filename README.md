@@ -2,9 +2,6 @@
 <h3 align="center">I empower digital journeys through clean code and creative design, ensuring seamless user experiences.</h3>
 
 
-
-- 🌱 I’m currently learning **C++**
-
 - 👨‍💻 All of my projects are available at [https://taha-portfolio-seven.vercel.app/](https://taha-portfolio-seven.vercel.app/)
 
 - 📫 How to reach me **tahaghous2002@gmail.com**
