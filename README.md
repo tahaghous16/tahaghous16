@@ -17,6 +17,7 @@
 🤝 **Let's Connect**  
 🔗 Open to collaboration on web development projects  
 🔗 LinkedIn: [linkedin.com/in/tahaghous2002](https://linkedin.com/in/tahaghous2002)  
+🌐 [Portfolio](https://portfolio-rfzm.vercel.app/)
 
 ✨ **Fun Fact**  
 🚀 I enjoy building real-world projects and learning by doing  
