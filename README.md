@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Computer Science student  
 💻 Frontend Developer with a passion for clean and responsive UI  
-🌐 Exploring Full Stack Development using the MERN stack  
+🌐 Exploring Full Stack Development using the MERN and Nextjs 
 
 🛠️ **Tech Skills**  
 🎨 Frontend: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS  
