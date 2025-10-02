@@ -1,25 +1,60 @@
-# 💫 About Me:
-🎓 Computer Science student  
-💻 Frontend Developer with a passion for clean and responsive UI  
-🌐 Exploring Full Stack Development using the MERN and Nextjs 
+# 👋 Hey there, I'm Taha Ghous
 
-🛠️ **Tech Skills**  
-🎨 Frontend: React.js, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS  
-🖥️ Backend: Node.js, Express.js  
-🗃️ Database: MongoDB  
-💡 Programming Languages: C++, Java  
-🛠️ Tools: Git, GitHub, VS Code  
+💻 **Computer Science Student & MERN Stack Developer**
+I love turning ideas into real-world web applications with clean, modern, and responsive design. My stack mainly revolves around **React, Node.js, Express, and MongoDB**, but I’m always exploring new tools and technologies that can make development smarter and faster.
 
-📘 **Currently Learning**  
-📍 Node.js & Backend Development  
-📍 Object-Oriented Programming (OOP) in Java  
+---
 
-🤝 **Let's Connect**  
-🔗 [LinkedIn](https://linkedin.com/in/tahaghous2002)  
-🔗 [Portfolio](https://portfolio-rfzm.vercel.app/)
+## 🚀 Projects Showcase
 
-✨ **Fun Fact**  
-🚀 I enjoy building real-world projects and learning by doing  
+Here are some of my featured projects that reflect my skills and passion for development:
+
+* 🛒 **Buyzaar** *(React + Redux)* – An e-commerce platform built for a seamless shopping experience.
+* ✍️ **ThinkDraft AI** *(MERN)* – A blog application powered by AI-assisted content drafting.
+* 🔐 **MERN-AUTH** *(MERN)* – A secure authentication system with JWT and modern practices.
+
+🔗 *[Check more on my portfolio](https://portfolio-rfzm.vercel.app/)*
+
+---
+
+## 🎯 Current Goals
+
+* Mastering **Full Stack Development** with a focus on **AI-powered applications**.
+* Building projects that combine **creativity + problem-solving**.
+* Exploring **Next.js** for production-ready web apps.
+
+---
+
+## 🏆 Highlights & Certifications
+
+* ✅ **AI Essentials Certificate**
+* ✅ **CSS Certificate**
+* ✅ **JavaScript Certificate**
+* ✅ **Node.js Certificate**
+  *(Links will be added soon)*
+
+---
+
+## ✨ Fun Side
+
+⚡ When I’m not coding, I enjoy **playing cricket and video games** 🏏🎮 — it keeps my mind fresh and creative.
+Also, I’m a bit of an **astrophile 🚀**, fascinated by the mysteries of black holes and the universe.
+
+---
+
+## 🤝 Let’s Connect
+
+* 🌐 [Portfolio](https://portfolio-rfzm.vercel.app/)
+* 💼 [LinkedIn](https://linkedin.com/in/tahaghous2002)
+* 📧 [Email Me](mailto:tahaghous2002@gmail.com)
+
+---
+
+⭐ *“I believe in learning by building — every project is a new chapter in my growth as a developer.”*
+
+
+---
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/12HUA4nKKuD/)
