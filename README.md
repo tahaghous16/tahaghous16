@@ -27,11 +27,11 @@ Here are some of my featured projects that reflect my skills and passion for dev
 
 ## 🏆 Highlights & Certifications
 
-* ✅ **AI Essentials Certificate**
-* ✅ **CSS Certificate**
-* ✅ **JavaScript Certificate**
-* ✅ **Node.js Certificate**
-  *(Links will be added soon)*
+* ✅ **[AI Essentials Certificate](https://www.coursera.org/account/accomplishments/verify/9FEJDFD6T62S)**
+* ✅ **[CSS Certificate](https://www.hackerrank.com/certificates/70dc0d9d1ffb)**
+* ✅ **[JavaScript Certificate](https://www.hackerrank.com/certificates/9893cedd9f3a)**
+* ✅ **[Node.js Certificate](https://www.hackerrank.com/certificates/da0ed9ede8f4)**
+ 
 
 ---
 
