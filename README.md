@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Taha Ghous
 
-💻 **Computer Science Student & MERN Stack Developer**
+**Computer Science Student & MERN Stack Developer**
 I love turning ideas into real-world web applications with clean, modern, and responsive design. My stack mainly revolves around **React, Node.js, Express, and MongoDB**, but I’m always exploring new tools and technologies that can make development smarter and faster.
 
 ---
